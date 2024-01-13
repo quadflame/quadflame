@@ -1,5 +1,5 @@
 ## Hey 👋
-I'm quadflame, a 16 year old students who loves to code Minecraft server plugins for Spigot (Alternatively Paper), Velocity and BungeeCord
+I'm quadflame, a 16 year old student who loves to code Minecraft server plugins for Spigot, Paper, Purpur, Velocity and BungeeCord
 
 - 🔭 I’m currently working on Java Development and SQL
 - 👯 I'm interested in collaborating on the development of plugins to experience a development team environment
