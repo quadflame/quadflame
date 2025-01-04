@@ -7,4 +7,4 @@ I'm quadflame, a student who loves to code Minecraft server plugins
 - 🖥️ I am the owner of the Minecraft server `mc.quadflame.com`
 - 📫 How to contact me: @quadflame on Discord
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=quadflame&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=quadflame&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
