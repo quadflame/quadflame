@@ -10,8 +10,8 @@ After **much experimenting** 🧪 with a vast range of tech, these are definitel
 
 ## ✨ Goals
 In the future, I plan to continue learning new tech, some of which being:
-- Kotlin 🚀 to add a **modern twist** to my Java proficiency
-- Go 🎉 to gain a deeper understanding of concurrency with coroutines
+- **Kotlin** 🚀 to add a **modern twist** to my Java proficiency
+- **Go** 🎉 to gain a deeper understanding of concurrency with coroutines
 
 ## 👓 Appendix
 
