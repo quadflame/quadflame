@@ -20,7 +20,7 @@ I'm **quadflame** - a backend-focused developer with nearly 4 years of experienc
 
 ![Favourite Tools](https://skillicons.dev/icons?i=java,kotlin,python,maven,mysql,redis,idea,vscode,github,bash,linux,cloudflare,docker)
 
-## Experience
+## 🧑‍💻 Experience
 ### 🏝️ `bridger.land` (Minecraft server network)
 **Role:** Freelance Developer  
 **Dates:** Jul 2022 - Present (on-request / project-based)
