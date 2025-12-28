@@ -1,5 +1,5 @@
 # Hey there! 👋
-I'm **quadflame** - a backend-focused developer with nearly 4 years of experience building high-performance Minecraft server plugins and infrastructure. I primarily work on performance-critical Java code, focusing on concurrency and scalability for live production servers with real players.
+I'm **quadflame** - a backend-focused developer and student with nearly 4 years of experience building high-performance Minecraft server plugins and infrastructure. I primarily work on performance-critical Java code, focusing on concurrency and scalability for live production servers with real players.
 
 ## 🚀 What I Work On
 - High-performance Minecraft server plugins used in production environments
