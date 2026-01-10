@@ -15,7 +15,7 @@ I'm **quadflame** - a backend-focused developer and student with nearly 4 years 
 
 **Tools & Systems**
 - Git, Maven, Docker (learning), IntelliJ IDEA, VSCode
-- MySQL + HikariCP, Redis (learning)
+- MySQL + HikariCP, Redis
 - Linux server environments, Pterodactyl
 
 ![Favourite Tools](https://skillicons.dev/icons?i=java,kotlin,python,maven,mysql,redis,idea,vscode,github,bash,linux,cloudflare,docker)
