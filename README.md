@@ -14,7 +14,7 @@ I'm **quadflame** - a backend-focused developer and student with nearly 4 years 
 - Spigot, Paper, custom server forks
 
 **Tools & Systems**
-- Git, Maven, Docker (learning), IntelliJ IDEA, VSCode
+- Git, Maven, Gradle (learning), Docker (learning), IntelliJ IDEA, VSCode
 - MySQL + HikariCP, Redis
 - Linux server environments, Pterodactyl
 
